@@ -1,0 +1,28 @@
+.header{
+    border-bottom: 1px solid rgb(0, 30, 128);
+
+    display: flex;
+    justify-content: space-between;
+    padding: 2.5rem 2rem;
+}
+
+.usuario{
+    font-size: 1.7rem;
+    color: white;
+    color: black;
+}
+
+header span{
+    background-color: rgb(21, 116, 117);
+    border-radius: 4rem;
+    padding: 1.5rem 0.5rem;
+    color: white;
+}
+
+.git{
+    background-color: rgb(6, 39, 105);
+    padding: 1rem 2rem;
+    border-radius: 3.5px;
+    color: white;
+    font-size: 1rem;
+}
